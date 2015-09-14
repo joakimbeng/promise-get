@@ -1,6 +1,6 @@
 {
   "name": "promise-get",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get a property from the object a promise resolves to, using a dot path",
   "main": "src/index.js",
   "scripts": {
